@@ -20,9 +20,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Live Site URL: [live site URL](https://www.qr-code-challenge.gigfa.com)
 
 ### Built with
 
