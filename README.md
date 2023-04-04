@@ -12,11 +12,11 @@
 
 ### Screenshot
 
-![](./Frontend%20Mentor%20_%20QR%20code%20component%20-%20Google%20Chrome%203_14_2023%204_01_17%20PM.png)
+![](./screenshot.png.png)
 
 ### Links
 
-- Live Site URL: [live site URL](https://www.qr-code-challenge.gigfa.com)
+- Live Site URL: [live site URL](https://qr-code-challenge-ebv.pages.dev/)
 
 ### Built with
 
